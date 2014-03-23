@@ -6,3 +6,10 @@ tieba.baidu.com##.tbui_fbar_game
 tieba.baidu.com##.u_tshow
 tieba.baidu.com##.game_frs_in_head
 tieba.baidu.com###guide_fc
+tieba.baidu.com###union_mod
+tieba.baidu.com##.tieba_notice
+tieba.baidu.com##.d_nameplate
+tieba.baidu.com##.j_navtab_game
+tieba.baidu.com##.icon_zhuanpan
+tieba.baidu.com##.game_spread_thread
+tieba.baidu.com##.download.mobile_res
