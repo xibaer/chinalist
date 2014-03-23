@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: CL6cVl49FUDLGB61PPesWw
+! Checksum: dRNRUHrltLkmG+ZDQ19Gng
 ! Title: ChinaList Mod By Jixun
 ! Too many whitelist, I don't like it.
 !
@@ -543,7 +543,8 @@
 ||zhanzhang.net^$third-party
 ||zhiad.com^$third-party
 ||zwads.com^$third-party
-||zytwq.net^$third-party!---A
+||zytwq.net^$third-party
+!---A
 ||addthis.com^$third-party
 !---B
 ||baifendian.com^$third-party
@@ -2809,7 +2810,8 @@ yaolan.com##div[id^="active_ad"]
 yaolan.com##div[id^="bot_ad"]
 yaolan.com##div[id^="mama_ad"]
 yaolan.com##div[id^="frPicWzAd"]
-! Nothing here.||360safego.com^
+! 一些乱七八糟的广告
+||360safego.com^
 ||rc.qiyou.com^
 ||unionsky2.cn^
 ||9158918.com^
@@ -2834,7 +2836,9 @@ yaolan.com##div[id^="frPicWzAd"]
 ||pos.baidu.com^
 /advview2013.php*
 ||wpa.qq.com/pa^
-||hm.baidu.com^tieba.baidu.com##.lot_wrap
+||hm.baidu.com^
+!-- 贴吧补充
+tieba.baidu.com##.lot_wrap
 tieba.baidu.com###game_rank
 tieba.baidu.com##.tbui_fbar_game
 tieba.baidu.com##.u_tshow

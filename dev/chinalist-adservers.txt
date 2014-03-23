@@ -1,3 +1,4 @@
+
 !--中国电信
 /clicktotal/ClickTotal.js
 ||189.cn/dns/
