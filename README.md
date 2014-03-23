@@ -3,4 +3,4 @@
 
 列表难免有所遗漏，我也是把自己找到的一些奇怪的白名单删掉了而已。
 
-如果发现遗漏，请提交 Issue; 我会不定期查看。
+如果发现遗漏，请[提交 Issue](https://github.com/JixunMoe/chinalist/issues/new); 我会不定期查看。
