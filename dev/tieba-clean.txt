@@ -1,7 +1,8 @@
 
-!-- 贴吧补充
+!-- 贴吧补充 ()
 tieba.baidu.com##.lot_wrap
 tieba.baidu.com###game_rank
 tieba.baidu.com##.tbui_fbar_game
 tieba.baidu.com##.u_tshow
 tieba.baidu.com##.game_frs_in_head
+tieba.baidu.com###guide_fc
