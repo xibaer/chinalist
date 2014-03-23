@@ -1,0 +1,5 @@
+tieba.baidu.com##.lot_wrap
+tieba.baidu.com###game_rank
+tieba.baidu.com##.tbui_fbar_game
+tieba.baidu.com##.u_tshow
+tieba.baidu.com##.game_frs_in_head
