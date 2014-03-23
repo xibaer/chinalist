@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 5VOSuI5gsKOVOM2C4+qVpQ
+! Checksum: IoJnr2oMzTUZNnBQq9HAoQ
 ! Title: ChinaList Mod By Jixun
 ! Too many whitelist, I don't like it.
 !
@@ -8,7 +8,7 @@
 ! Homepage: http://jixun.org/
 !----GNU LGPL Licensed, NO WARRANTY but Best Wishes----
 !
-!-- Build at Sun Mar 23 14:59:23 GMT 2014
+!-- Build at Sun Mar 23 15:01:44 GMT 2014
 !--中国电信
 /clicktotal/ClickTotal.js
 ||189.cn/dns/
@@ -2838,9 +2838,10 @@ yaolan.com##div[id^="frPicWzAd"]
 /advview2013.php*
 ||wpa.qq.com/pa^
 ||hm.baidu.com^
-!-- 贴吧补充
+!-- 贴吧补充 ()
 tieba.baidu.com##.lot_wrap
 tieba.baidu.com###game_rank
 tieba.baidu.com##.tbui_fbar_game
 tieba.baidu.com##.u_tshow
 tieba.baidu.com##.game_frs_in_head
+tieba.baidu.com###guide_fc
