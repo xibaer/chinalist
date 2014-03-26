@@ -1,6 +1,6 @@
 
 ##.wumii-widget-ad
-##a[target="_blank"][onmousedown^="this.href='http://p.ujian.cc/?url="]
+##a[onmousedown*="p.ujian.cc"]
 17k.com##[id^="ad0"]
 17k.com##.b950
 17k.com##[id^="PAGE_AD"]
