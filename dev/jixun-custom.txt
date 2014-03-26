@@ -26,3 +26,5 @@
 /advview2013.php*
 ||wpa.qq.com/pa^
 ||hm.baidu.com^
+!-- 51gugu
+/popwin^
