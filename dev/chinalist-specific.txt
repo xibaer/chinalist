@@ -212,12 +212,6 @@ zhidao.baidu.com##.wgt-ads
 hao123img.com/res/ecom/
 !--pan
 ||dq.baidu.com/nocipher?
-!--tieba
-||m.tiebaimg.com/timg?wapp^*imgtype=0$image
-||imgsrc.baidu.com/tieba/pic/item/$image
-tieba.baidu.com##.l_banner
-tieba.baidu.com###search_button.search_button
-tieba.baidu.com##[id^="game_couplet_pb_"]
 !--unions
 ||cb.baidu.com^
 ||cbjs.baidu.com^

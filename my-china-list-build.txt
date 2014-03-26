@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: BYCYI4gnJj3oZEf67hnJCQ
+! Checksum: LHq4570RSUyavvrZnQp+2Q
 ! Title: ChinaList Mod By Jixun
 ! Too many whitelist, I don't like it.
 !
@@ -8,7 +8,7 @@
 ! Homepage: http://jixun.org/
 !----GNU LGPL Licensed, NO WARRANTY but Best Wishes----
 !
-!-- Build at Sun Mar 23 15:09:00 GMT 2014
+!-- Build at Wed Mar 26 15:21:26 GMT 2014
 !--中国电信
 /clicktotal/ClickTotal.js
 ||189.cn/dns/
@@ -1589,12 +1589,6 @@ zhidao.baidu.com##.wgt-ads
 hao123img.com/res/ecom/
 !--pan
 ||dq.baidu.com/nocipher?
-!--tieba
-||m.tiebaimg.com/timg?wapp^*imgtype=0$image
-||imgsrc.baidu.com/tieba/pic/item/$image
-tieba.baidu.com##.l_banner
-tieba.baidu.com###search_button.search_button
-tieba.baidu.com##[id^="game_couplet_pb_"]
 !--unions
 ||cb.baidu.com^
 ||cbjs.baidu.com^
@@ -2838,7 +2832,7 @@ yaolan.com##div[id^="frPicWzAd"]
 /advview2013.php*
 ||wpa.qq.com/pa^
 ||hm.baidu.com^
-!-- 贴吧补充 ()
+!-- 贴吧补充 (元素隐藏)
 tieba.baidu.com##.lot_wrap
 tieba.baidu.com###game_rank
 tieba.baidu.com##.tbui_fbar_game
@@ -2852,3 +2846,20 @@ tieba.baidu.com##.j_navtab_game
 tieba.baidu.com##.icon_zhuanpan
 tieba.baidu.com##.game_spread_thread
 tieba.baidu.com##.download.mobile_res
+tieba.baidu.com###j_ten_years
+tieba.baidu.com##.hgame_mod_theme2
+tieba.baidu.com##.pb_lecai_iframe
+tieba.baidu.com##.lzl_panel_wrapper p
+tieba.baidu.com##.pc2client
+tieba.baidu.com##.tb_poster_placeholder
+!-- ChinaList 自带的
+||m.tiebaimg.com/timg?wapp^*imgtype=0$image
+||imgsrc.baidu.com/tieba/pic/item/$image
+tieba.baidu.com##.l_banner
+tieba.baidu.com###search_button.search_button
+tieba.baidu.com##[id^="game_couplet_pb_"]
+!-- 百度晕
+yun.baidu.com##.newhand-tips-dialog
+yun.baidu.com##[data-key="AD"]
+pan.baidu.com##.newhand-tips-dialog
+pan.baidu.com##[data-key="AD"]
