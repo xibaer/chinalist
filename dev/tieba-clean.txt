@@ -14,11 +14,12 @@ tieba.baidu.com##.icon_zhuanpan
 tieba.baidu.com##.game_spread_thread
 tieba.baidu.com##.download.mobile_res
 tieba.baidu.com###j_ten_years
-tieba.baidu.com##.hgame_mod_theme2
+tieba.baidu.com##[class^="hgame_"]
 tieba.baidu.com##.pb_lecai_iframe
 tieba.baidu.com##.lzl_panel_wrapper p
 tieba.baidu.com##.pc2client
 tieba.baidu.com##.tb_poster_placeholder
+tieba.baidu.com##.share_btn_wrapper
 !-- 挽尊
 tieba.baidu.com##.save_face_bg
 tieba.baidu.com##.profile_bottom
