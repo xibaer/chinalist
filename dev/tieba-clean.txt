@@ -41,7 +41,7 @@ tieba.baidu.com###sofa_post
 tieba.baidu.com##.cont_sign_banner
 /tb/static-common/img/bdshare/*
 !-- 来自 xx 客户端
-tieba.baidu.com##.p_mtail:not(.j_jb_ele)
+tieba.baidu.com##.p_mtail>li:not(.j_jb_ele)
 
 !-- ChinaList(原) 自带的
 ||m.tiebaimg.com/timg?wapp^*imgtype=0$image
