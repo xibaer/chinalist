@@ -42,6 +42,7 @@ tieba.baidu.com##.cont_sign_banner
 /tb/static-common/img/bdshare/*
 !-- 来自 xx 客户端
 tieba.baidu.com##.p_mtail>li:not([class])
+tieba.baidu.com##.ui_card_wrap
 
 !-- ChinaList(原) 自带的
 ||m.tiebaimg.com/timg?wapp^*imgtype=0$image
@@ -57,3 +58,17 @@ yun.baidu.com##[data-key="AD"]
 
 pan.baidu.com##.newhand-tips-dialog
 pan.baidu.com##[data-key="AD"]
+
+pan.baidu.com###share_aside>*:not(dl.property-list)
+
+!-- 加速度娘盘访问速度, 屏蔽非必须请求 √
+||pan.baidu.com/disk/cmsdata?*
+||pan.baidu.com/notice/*
+||pan.baidu.com/mis/dtcount?*
+||pan.baidu.com/share/autoincre?*
+||pan.baidu.com/pcloud/*
+||pan.baidu.com/share/hotrec?*
+||pan.baidu.com/share/download?*
+||pan.baidu.com/share/docrec?*
+||pan.baidu.com/api/analytics?*
+/monitor.jpg?*

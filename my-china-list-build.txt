@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: miGV8fnsMpT7EF8EQuSRPQ
+! Checksum: DGHmF/KYVVWAhbbCnigAqQ
 ! Title: ChinaList Mod By Jixun
 ! Too many whitelist, I don't like it.
 !
@@ -8,7 +8,7 @@
 ! Homepage: http://jixun.org/
 !----GNU LGPL Licensed, NO WARRANTY but Best Wishes----
 !
-!-- Build at Sat Mar 29 19:06:05 GMT 2014
+!-- Build at Sun Mar 30 22:29:47 BST 2014
 !--中国电信
 /clicktotal/ClickTotal.js
 ||189.cn/dns/
@@ -2834,6 +2834,9 @@ yaolan.com##div[id^="frPicWzAd"]
 ||hm.baidu.com^
 !-- 51gugu
 /popwin^
+||amung.us^
+||dtscout.com^
+||tynt.com^
 !-- 贴吧补充 (元素隐藏)
 tieba.baidu.com##.lot_wrap
 tieba.baidu.com###game_rank
@@ -2877,6 +2880,7 @@ tieba.baidu.com##.cont_sign_banner
 /tb/static-common/img/bdshare/*
 !-- 来自 xx 客户端
 tieba.baidu.com##.p_mtail>li:not([class])
+tieba.baidu.com##.ui_card_wrap
 !-- ChinaList(原) 自带的
 ||m.tiebaimg.com/timg?wapp^*imgtype=0$image
 ||imgsrc.baidu.com/tieba/pic/item/$image
@@ -2888,3 +2892,15 @@ yun.baidu.com##.newhand-tips-dialog
 yun.baidu.com##[data-key="AD"]
 pan.baidu.com##.newhand-tips-dialog
 pan.baidu.com##[data-key="AD"]
+pan.baidu.com###share_aside>*:not(dl.property-list)
+!-- 加速度娘盘访问速度, 屏蔽非必须请求 √
+||pan.baidu.com/disk/cmsdata?*
+||pan.baidu.com/notice/*
+||pan.baidu.com/mis/dtcount?*
+||pan.baidu.com/share/autoincre?*
+||pan.baidu.com/pcloud/*
+||pan.baidu.com/share/hotrec?*
+||pan.baidu.com/share/download?*
+||pan.baidu.com/share/docrec?*
+||pan.baidu.com/api/analytics?*
+/monitor.jpg?*

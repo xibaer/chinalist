@@ -28,3 +28,7 @@
 ||hm.baidu.com^
 !-- 51gugu
 /popwin^
+
+||amung.us^
+||dtscout.com^
+||tynt.com^
