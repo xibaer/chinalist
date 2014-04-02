@@ -33,9 +33,10 @@ tieba.baidu.com##.profile_bottom
 ||static.tieba.baidu.com/tb/static-pb/component/meizhi_pb_vote/*
 !-- 于是自己也去试着抓了抓 :3
 /app/pop/bws/popup*
-/f/urlcheck*
+/f/urlcheck?*
 ||bdimg.share.baidu.com^
-|http://tb1.bdstatic.com/tb/_/magic_props_92f9e90.js
+
+!-- |http://tb1.bdstatic.com/tb/_/magic_props_92f9e90.js
 !-- 沙发你妹夫
 tieba.baidu.com###sofa_post
 tieba.baidu.com##.cont_sign_banner
