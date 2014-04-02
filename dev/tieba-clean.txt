@@ -23,7 +23,7 @@ tieba.baidu.com##.share_btn_wrapper
 !-- 挽尊
 tieba.baidu.com##.save_face_bg
 tieba.baidu.com##.profile_bottom
-!-- 異次元の鎖: /p/2947163297#47987138957
+!-- 來源: 異次元の鎖: /p/2947163297#47987138957
 ||202.102.100.100^
 ||api.share.baidu.com^
 ||cbjs.baidu.com^
@@ -51,7 +51,12 @@ tieba.baidu.com##.ui_card_wrap
 tieba.baidu.com##.l_banner
 tieba.baidu.com###search_button.search_button
 tieba.baidu.com##[id^="game_couplet_pb_"]
-
+!-- 無用功能
+tieba.baidu.com##.tbui_fbar_props
+tieba.baidu.com##.tbui_fbar_tsukkomi
+tieba.baidu.com##.tbui_fbar_share
+tieba.baidu.com##.poster_head_surveillance
+###bdshare
 
 !-- 百度晕
 yun.baidu.com##.newhand-tips-dialog
