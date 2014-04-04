@@ -1,34 +1,6 @@
 
-! 一些乱七八糟的广告
-||360safego.com^
-||rc.qiyou.com^
-||unionsky2.cn^
-||9158918.com^
-||qiyou.com^
-||12l22.net^
-||2155ec.com^
-||egooad.com^
-||lxting.com^
-||xcy8.com^
-||yongv.com^
-||cpro.baidustatic.com^
-||images.sohu.com/cs/jsfile/js/c.js
-||irs01.net^
-||sufile.com/jsa^
-||ajhdf.com^
-||1688988.com^
-||32666.com/ads^
-||6rooms.com/js^
-||dushimj.com^
-||okm918.com^
-||zytwq.net^
-||pos.baidu.com^
-/advview2013.php*
-||wpa.qq.com/pa^
-||hm.baidu.com^
 !-- 51gugu
 /popwin^
 
-||amung.us^
-||dtscout.com^
-||tynt.com^
+!-- 豆瓣电台
+douban.fm##.ch-list-wrapper>.chl_section:last-child

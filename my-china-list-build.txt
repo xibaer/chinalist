@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Z8sf175k1yjnk2DgA3O6Og
+! Checksum: YLGUhUKY5/80DJ0gNilS6A
 ! Title: ChinaList Mod By Jixun
 ! Too many whitelist, I don't like it.
 !
@@ -8,7 +8,7 @@
 ! Homepage: http://jixun.org/
 !----GNU LGPL Licensed, NO WARRANTY but Best Wishes----
 !
-!-- Build at Wed Apr  2 18:58:51 BST 2014
+!-- Build at Fri Apr  4 22:47:54 BST 2014
 !--中国电信
 /clicktotal/ClickTotal.js
 ||189.cn/dns/
@@ -2805,7 +2805,34 @@ yaolan.com##div[id^="active_ad"]
 yaolan.com##div[id^="bot_ad"]
 yaolan.com##div[id^="mama_ad"]
 yaolan.com##div[id^="frPicWzAd"]
-! 一些乱七八糟的广告
+!-- 51gugu
+/popwin^
+!-- 豆瓣电台
+douban.fm##.ch-list-wrapper>.chl_section:last-child
+！-- 一些下载站的
+||m.pc6.com/js/sj-soft.js
+||kutongji.com^
+||yesky.com/jkjs/imp-xz.htm
+||tianjimedia.com^
+||icon.zol-img.com.cn/public/js/*
+||huacolor.com/daocaoren/*
+||huacolor.com/wenzi/*
+!-- 收集用户信息 / 广告连萌 :3
+||tjs.sjs.sinajs.cn^
+||follow.v.t.qq.com^
+||users.51.la^
+||doubleclick.net^
+||google-analytics.com^
+||l.qq.com^
+||assets.changyan.sohu.com/upload/changyan.js?*
+||imrworldwide.com^
+||qiyou.com^
+||8jkx.com^
+||wo279.com^
+||9377.com^
+||amung.us^
+||dtscout.com^
+||tynt.com^
 ||360safego.com^
 ||rc.qiyou.com^
 ||unionsky2.cn^
@@ -2832,11 +2859,6 @@ yaolan.com##div[id^="frPicWzAd"]
 /advview2013.php*
 ||wpa.qq.com/pa^
 ||hm.baidu.com^
-!-- 51gugu
-/popwin^
-||amung.us^
-||dtscout.com^
-||tynt.com^
 !-- 贴吧补充 (元素隐藏)
 tieba.baidu.com##.lot_wrap
 tieba.baidu.com###game_rank
