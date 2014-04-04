@@ -1,5 +1,5 @@
 
-！-- 一些下载站的
+!-- 一些下载站的
 ||m.pc6.com/js/sj-soft.js
 ||kutongji.com^
 ||yesky.com/jkjs/imp-xz.htm
