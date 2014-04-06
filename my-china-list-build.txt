@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: cKyANqfKRWQh1Em9K4fuTw
+! Checksum: KIDcHc2LIIB5X/qKDEl9+Q
 ! Title: ChinaList Mod By Jixun
 ! Too many whitelist, I don't like it.
 !
@@ -8,7 +8,7 @@
 ! Homepage: http://jixun.org/
 !----GNU LGPL Licensed, NO WARRANTY but Best Wishes----
 !
-!-- Build at Fri Apr  4 22:49:31 BST 2014
+!-- Build at Sun Apr  6 13:42:17 BST 2014
 !--中国电信
 /clicktotal/ClickTotal.js
 ||189.cn/dns/
@@ -2739,10 +2739,11 @@ yesky.com##[class^="ad"]
 ||v.stats.yytcdn.com^
 !---人人影视
 ||copy.ousns.com^
-yyets.com##a[href="http://ehdw.taobao.com/"]
+yyets.com##a[href="taobao.com"]
 yyets.com##.games-rec-list
 yyets.com##.j-t
 yyets.com##.joke
+||res.yyets.com/ads/*
 !---叶子猪游戏网
 ||yzz.cn/home/theme/popwin/
 ||yktj.yzz.cn^
@@ -2788,23 +2789,14 @@ zongheng.com###bigImgPop
 mmzh.com###dlle
 mmzh.com###dlri
 !--摇篮网
-/adscript/crazyad.js
-yaolanimage.cn/home/js/adinsert_new.js
-||adpub.yaolan.com^
 yaolan.com##.fwBotAd
 yaolan.com##.focus
 yaolan.com##.SybAd
-yaolan.com##div[id^="topAd"]
-yaolan.com###j_focus_img
-yaolan.com###j_focus_num
-yaolan.com##div[id^="frWzAd"]
-yaolan.com##div[id^="fmAdCenter"]
-yaolan.com##div[id^="underZs"]
-yaolan.com##div[id*="underHdAd"]
-yaolan.com##div[id^="active_ad"]
-yaolan.com##div[id^="bot_ad"]
-yaolan.com##div[id^="mama_ad"]
-yaolan.com##div[id^="frPicWzAd"]
+||adpub.yaolan.com^
+||adnetpub.yaolan.com^
+||f.yaolanimage.cn/cms/image/js/ad-tongji.js?*
+||h.yaolanimage.cn/home/js/adinsert*.js
+||117.79.133.118^
 !-- 51gugu
 /popwin^
 !-- 豆瓣电台
@@ -2880,6 +2872,8 @@ tieba.baidu.com##.lzl_panel_wrapper p
 tieba.baidu.com##.pc2client
 tieba.baidu.com##.tb_poster_placeholder
 tieba.baidu.com##.share_btn_wrapper
+tieba.baidu.com##.p_props_tail
+tieba.baidu.com##.tbmall_score_wrapper>div:not(.online_time)
 !-- 挽尊
 tieba.baidu.com##.save_face_bg
 tieba.baidu.com##.profile_bottom

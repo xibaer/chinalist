@@ -20,6 +20,8 @@ tieba.baidu.com##.lzl_panel_wrapper p
 tieba.baidu.com##.pc2client
 tieba.baidu.com##.tb_poster_placeholder
 tieba.baidu.com##.share_btn_wrapper
+tieba.baidu.com##.p_props_tail
+tieba.baidu.com##.tbmall_score_wrapper>div:not(.online_time)
 !-- 挽尊
 tieba.baidu.com##.save_face_bg
 tieba.baidu.com##.profile_bottom

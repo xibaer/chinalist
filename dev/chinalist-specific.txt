@@ -1390,7 +1390,6 @@ bbs.xmfish.com##[id^="ads"]
 xilu.com##.advtable
 
 !---新华网
-
 _iframe.htm|$domain=news.cn|xinhuanet.com
 ||xinhuanet.com^*_tl_$script
 ||xinhuanet.com/classad/
@@ -1501,10 +1500,11 @@ yesky.com##[class^="ad"]
 
 !---人人影视
 ||copy.ousns.com^
-yyets.com##a[href="http://ehdw.taobao.com/"]
+yyets.com##a[href="taobao.com"]
 yyets.com##.games-rec-list
 yyets.com##.j-t
 yyets.com##.joke
+||res.yyets.com/ads/*
 
 !---叶子猪游戏网
 ||yzz.cn/home/theme/popwin/
@@ -1555,20 +1555,11 @@ mmzh.com###dlle
 mmzh.com###dlri
 
 !--摇篮网
-/adscript/crazyad.js
-yaolanimage.cn/home/js/adinsert_new.js
-||adpub.yaolan.com^
 yaolan.com##.fwBotAd
 yaolan.com##.focus
 yaolan.com##.SybAd
-yaolan.com##div[id^="topAd"]
-yaolan.com###j_focus_img
-yaolan.com###j_focus_num
-yaolan.com##div[id^="frWzAd"]
-yaolan.com##div[id^="fmAdCenter"]
-yaolan.com##div[id^="underZs"]
-yaolan.com##div[id*="underHdAd"]
-yaolan.com##div[id^="active_ad"]
-yaolan.com##div[id^="bot_ad"]
-yaolan.com##div[id^="mama_ad"]
-yaolan.com##div[id^="frPicWzAd"]
+||adpub.yaolan.com^
+||adnetpub.yaolan.com^
+||f.yaolanimage.cn/cms/image/js/ad-tongji.js?*
+||h.yaolanimage.cn/home/js/adinsert*.js
+||117.79.133.118^
