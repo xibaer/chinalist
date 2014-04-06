@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: KIDcHc2LIIB5X/qKDEl9+Q
+! Checksum: 5Os3g4ANlVoyGsLp7SUXQw
 ! Title: ChinaList Mod By Jixun
 ! Too many whitelist, I don't like it.
 !
@@ -8,7 +8,7 @@
 ! Homepage: http://jixun.org/
 !----GNU LGPL Licensed, NO WARRANTY but Best Wishes----
 !
-!-- Build at Sun Apr  6 13:42:17 BST 2014
+!-- Build at Sun Apr  6 14:01:48 BST 2014
 !--中国电信
 /clicktotal/ClickTotal.js
 ||189.cn/dns/
@@ -647,7 +647,6 @@ www.3dmgame.com##.banner_1
 51.la###zanzhu
 52wubi.com##.top960
 amznz.com##div[style="float:left;width:250px;height:250px;"]
-appinn.com##.ads
 appinn.com##.ads-m
 appinn.com##.gad
 baihe.com##.blockUI
@@ -711,7 +710,6 @@ naruto.hk###jieshao DIV
 paoshu8.net##[id^="ad_"]
 paoshu8.net###TextTitle ~ table[border="0"]
 portableappc.com###text-7
-portal.opera.com##.ads
 portal.opera.com##.alt-ads
 price.com.hk###ad0
 price.com.hk##.tb
@@ -740,6 +738,9 @@ yunkeji.com##.content > p:nth-last-of-type(3)
 zazww.com##[id^="ads_c_"]
 zjol.com.cn##span.qqt
 zjol.com.cn##span.lqgg
+!-- 这个居然没有…
+##.ad
+##.ads
 !---Blog Sites
 /krads-images/*$domain=36kr.com
 ||img.chromi.org/2011/12/where-is-chromi.png
@@ -2851,6 +2852,9 @@ douban.fm##.ch-list-wrapper>.chl_section:last-child
 /advview2013.php*
 ||wpa.qq.com/pa^
 ||hm.baidu.com^
+||okokw.com^
+||cnzz.net^
+||sohu7777.com^
 !-- 贴吧补充 (元素隐藏)
 tieba.baidu.com##.lot_wrap
 tieba.baidu.com###game_rank

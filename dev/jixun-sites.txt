@@ -41,3 +41,6 @@
 /advview2013.php*
 ||wpa.qq.com/pa^
 ||hm.baidu.com^
+||okokw.com^
+||cnzz.net^
+||sohu7777.com^
