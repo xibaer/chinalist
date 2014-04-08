@@ -111,3 +111,5 @@ zjol.com.cn##span.lqgg
 !-- 这个居然没有…
 ##.ad
 ##.ads
+mail.google.com#@#.ads
+mail.google.com#@#.ad
