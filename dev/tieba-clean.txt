@@ -58,6 +58,7 @@ tieba.baidu.com##.tbui_fbar_props
 tieba.baidu.com##.tbui_fbar_tsukkomi
 tieba.baidu.com##.tbui_fbar_share
 tieba.baidu.com##.poster_head_surveillance
+tieba.baidu.com##.p_mall_tail
 ###bdshare
 
 !-- 百度晕

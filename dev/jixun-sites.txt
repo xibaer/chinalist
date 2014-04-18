@@ -44,3 +44,16 @@
 ||okokw.com^
 ||cnzz.net^
 ||sohu7777.com^
+||addeluxe.jp^
+
+!-- 起点抓到的
+||8x.sdo.com^
+||bf.snyu.sdo.com^
+||ipic.staticsdo.com^
+||script.cmfu.com^
+||union.rising.com.cn^
+||www.qidian.com/JavaScript/wxcaijicom.js
+||www.qidian.com/javascript/_QIDIAN_.js
+||www.qidian.com/qidiandefault.htm
+qidian.com##.friendly_link
+qidian.com###down_3g_20130621

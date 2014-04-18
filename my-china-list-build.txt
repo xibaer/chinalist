@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: bbAd3BEytpY8WrYCEmbcbQ
+! Checksum: ObVSMDqgaJyidcVP0r21Lw
 ! Title: ChinaList Mod By Jixun
 ! Too many whitelist, I don't like it.
 !
@@ -8,7 +8,7 @@
 ! Homepage: http://jixun.org/
 !----GNU LGPL Licensed, NO WARRANTY but Best Wishes----
 !
-!-- Build at Tue Apr  8 19:23:30 BST 2014
+!-- Build at Fri Apr 18 10:48:14 BST 2014
 !--中国电信
 /clicktotal/ClickTotal.js
 ||189.cn/dns/
@@ -2804,6 +2804,10 @@ yaolan.com##.SybAd
 /popwin^
 !-- 豆瓣电台
 douban.fm##.ch-list-wrapper>.chl_section:last-child
+!-- Mega.co.nz
+mega.co.nz#@#.ads
+mega.co.nz##.ads-left-block
+mega.co.nz##.ads-right-block
 !-- 一些下载站的
 ||m.pc6.com/js/sj-soft.js
 ||kutongji.com^
@@ -2857,6 +2861,18 @@ douban.fm##.ch-list-wrapper>.chl_section:last-child
 ||okokw.com^
 ||cnzz.net^
 ||sohu7777.com^
+||addeluxe.jp^
+!-- 起点抓到的
+||8x.sdo.com^
+||bf.snyu.sdo.com^
+||ipic.staticsdo.com^
+||script.cmfu.com^
+||union.rising.com.cn^
+||www.qidian.com/JavaScript/wxcaijicom.js
+||www.qidian.com/javascript/_QIDIAN_.js
+||www.qidian.com/qidiandefault.htm
+qidian.com##.friendly_link
+qidian.com###down_3g_20130621
 !-- 贴吧补充 (元素隐藏)
 tieba.baidu.com##.lot_wrap
 tieba.baidu.com###game_rank
@@ -2914,6 +2930,7 @@ tieba.baidu.com##.tbui_fbar_props
 tieba.baidu.com##.tbui_fbar_tsukkomi
 tieba.baidu.com##.tbui_fbar_share
 tieba.baidu.com##.poster_head_surveillance
+tieba.baidu.com##.p_mall_tail
 ###bdshare
 !-- 百度晕
 yun.baidu.com##.newhand-tips-dialog
