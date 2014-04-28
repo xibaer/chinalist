@@ -1,30 +1,12 @@
 
 !-- 贴吧补充 (元素隐藏)
-tieba.baidu.com##.lot_wrap
-tieba.baidu.com###game_rank
-tieba.baidu.com##.tbui_fbar_game
-tieba.baidu.com##.u_tshow
-tieba.baidu.com##.game_frs_in_head
-tieba.baidu.com###guide_fc
-tieba.baidu.com###union_mod
-tieba.baidu.com##.tieba_notice
-tieba.baidu.com##.d_nameplate
-tieba.baidu.com##.j_navtab_game
-tieba.baidu.com##.icon_zhuanpan
-tieba.baidu.com##.game_spread_thread
-tieba.baidu.com##.download.mobile_res
-tieba.baidu.com###j_ten_years
-tieba.baidu.com##[class^="hgame_"]
-tieba.baidu.com##.pb_lecai_iframe
-tieba.baidu.com##.lzl_panel_wrapper p
-tieba.baidu.com##.pc2client
-tieba.baidu.com##.tb_poster_placeholder
-tieba.baidu.com##.share_btn_wrapper
-tieba.baidu.com##.p_props_tail
-tieba.baidu.com##.tbmall_score_wrapper>div:not(.online_time)
-!-- 挽尊
-tieba.baidu.com##.save_face_bg
-tieba.baidu.com##.profile_bottom
+tieba.baidu.com##.lot_wrap,#game_rank,.tbui_fbar_game,.u_tshow,.game_frs_in_head,#guide_fc
+tieba.baidu.com###union_mod,.tieba_notice,.d_nameplate,.j_navtab_game,.icon_zhuanpan,.game_spread_thread
+tieba.baidu.com##.download.mobile_res,#j_ten_years,[class^="hgame_"],.pb_lecai_iframe,.lzl_panel_wrapper p
+tieba.baidu.com##.pc2client,.tb_poster_placeholder,.share_btn_wrapper,.p_props_tail
+tieba.baidu.com##.poster_rewards,#poster_rewards_detail,#poster_rewards_disabled
+tieba.baidu.com##.save_face_bg,.profile_bottom,.tbmall_score_wrapper>div:not(.online_time)
+
 !-- 來源: 異次元の鎖: /p/2947163297#47987138957
 ||202.102.100.100^
 ||api.share.baidu.com^
@@ -37,6 +19,7 @@ tieba.baidu.com##.profile_bottom
 /app/pop/bws/popup*
 /f/urlcheck?*
 ||bdimg.share.baidu.com^
+||tb1.bdstatic.com/tb/static-props/component/guide/guide.js
 
 !-- |http://tb1.bdstatic.com/tb/_/magic_props_92f9e90.js
 !-- 沙发你妹夫
@@ -50,23 +33,17 @@ tieba.baidu.com##.ui_card_wrap
 !-- ChinaList(原) 自带的
 ||m.tiebaimg.com/timg?wapp^*imgtype=0$image
 ||imgsrc.baidu.com/tieba/pic/item/$image
-tieba.baidu.com##.l_banner
-tieba.baidu.com###search_button.search_button
-tieba.baidu.com##[id^="game_couplet_pb_"]
+tieba.baidu.com##.l_banner,.banner_post,#search_button.search_button,[id^="game_couplet_pb_"]
+
+
 !-- 無用功能
-tieba.baidu.com##.tbui_fbar_props
-tieba.baidu.com##.tbui_fbar_tsukkomi
-tieba.baidu.com##.tbui_fbar_share
-tieba.baidu.com##.poster_head_surveillance
-tieba.baidu.com##.p_mall_tail
-###bdshare
+tieba.baidu.com##.tbui_fbar_props,.tbui_fbar_tsukkomi,.tbui_fbar_share
+tieba.baidu.com##.poster_head_surveillance,.p_mall_tail,#bdshare
+tieba.baidu.com###balv_mod>.ui_bubble_wrap,.sign_title_text_bright,.pre_icon_wrap
 
 !-- 百度晕
-yun.baidu.com##.newhand-tips-dialog
-yun.baidu.com##[data-key="AD"]
-
-pan.baidu.com##.newhand-tips-dialog
-pan.baidu.com##[data-key="AD"]
+yun.baidu.com##.newhand-tips-dialog,[data-key="AD"]
+pan.baidu.com##.newhand-tips-dialog,[data-key="AD"]
 
 pan.baidu.com###share_aside>*:not(dl.property-list)
 
