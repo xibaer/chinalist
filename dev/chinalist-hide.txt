@@ -113,3 +113,6 @@ zjol.com.cn##span.lqgg
 ##.ads
 mail.google.com#@#.ads
 mail.google.com#@#.ad
+
+!-- 腾讯微博转播按钮
+###tipsWBzf
