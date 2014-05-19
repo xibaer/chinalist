@@ -1,2 +1,4 @@
 filter-build-info
 test/
+*.bak
+*~
