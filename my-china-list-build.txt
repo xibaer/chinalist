@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: jVikJvARVYBmj9JPdzbFIA
+! Checksum: uygjxZuLkJiJADZlb9H/4Q
 ! Title: ChinaList Mod By Jixun
 ! Too many whitelist, I don't like it.
 !
@@ -8,7 +8,7 @@
 ! Homepage: http://jixun.org/
 !----GNU LGPL Licensed, NO WARRANTY but Best Wishes----
 !
-!-- Build at Mon Jun  2 19:28:22 BST 2014
+!-- Build at Mon Jun  2 20:54:46 BST 2014
 !--中国电信
 /clicktotal/ClickTotal.js
 ||189.cn/dns/
@@ -2717,11 +2717,11 @@ tieba.baidu.com##.pc2client,.tb_poster_placeholder,.share_btn_wrapper,.p_props_t
 tieba.baidu.com##.poster_rewards,#poster_rewards_detail,#poster_rewards_disabled
 tieba.baidu.com##.save_face_bg,.profile_bottom,.tbmall_score_wrapper>div:not(.online_time)
 !-- 贴吧世界杯
-tieba.baidu.com##.worldcup_rank,.fifa_card_title,.fifa_card_pb-aside,.fifa_card_foottips
+tieba.baidu.com##.worldcup_rank,.fifa_card_title,.fifa_card,.fifa_card_pb-aside,.fifa_card_foottips
 !-- 贴吧游戏
 tieba.baidu.com##.game_tab,.game_content
 !-- 贴吧推广
-tieba.baidu.com##.j_thread_list>.t_con
+tieba.baidu.com##.j_thread_list[data-field*='"author_name":"\\u6e38\\u620f\\u5c0f\\u8d34"']
 !-- 猜拳帖
 tieba.baidu.com##a.add_guessing_btn
 !-- 來源: 異次元の鎖: /p/2947163297#47987138957
