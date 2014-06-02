@@ -7,6 +7,18 @@ tieba.baidu.com##.pc2client,.tb_poster_placeholder,.share_btn_wrapper,.p_props_t
 tieba.baidu.com##.poster_rewards,#poster_rewards_detail,#poster_rewards_disabled
 tieba.baidu.com##.save_face_bg,.profile_bottom,.tbmall_score_wrapper>div:not(.online_time)
 
+!-- 贴吧世界杯
+tieba.baidu.com##.worldcup_rank,.fifa_card_title,.fifa_card_pb-aside,.fifa_card_foottips
+
+!-- 贴吧游戏
+tieba.baidu.com##.game_tab,.game_content
+
+!-- 贴吧推广
+tieba.baidu.com##.j_thread_list>.t_con
+
+!-- 猜拳帖
+tieba.baidu.com##a.add_guessing_btn
+
 !-- 來源: 異次元の鎖: /p/2947163297#47987138957
 ||202.102.100.100^
 ||api.share.baidu.com^
