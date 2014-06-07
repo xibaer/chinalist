@@ -428,3 +428,13 @@
 ||zhanzhang.net^$third-party
 ||zwads.com^$third-party
 ||zytwq.net^$third-party
+
+||3808010.com^
+||i3z.cn^
+||taomato.com^
+||hz3137.com^
+||aidaicn.com^
+||1lo0.net^
+||mgwl668.com^
+||o091i.com^
+||baidu9048.com^
