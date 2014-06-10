@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: bmXgrvZpB/Z7uKLRcAJCCw
+! Checksum: B3HDF7az47UQcTYB7vxkyw
 ! Title: ChinaList Mod By Jixun
 ! Too many whitelist, I don't like it.
 !
@@ -8,7 +8,7 @@
 ! Homepage: http://jixun.org/
 !----GNU LGPL Licensed, NO WARRANTY but Best Wishes----
 !
-!-- Build at Tue Jun 10 18:22:44 BST 2014
+!-- Build at Tue Jun 10 18:22:51 BST 2014
 !--中国电信
 /clicktotal/ClickTotal.js
 ||189.cn/dns/
