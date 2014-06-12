@@ -438,3 +438,6 @@
 ||mgwl668.com^
 ||o091i.com^
 ||baidu9048.com^
+||77power.com^
+||1lo0.net^
+||namipan.cc/baidu/*
