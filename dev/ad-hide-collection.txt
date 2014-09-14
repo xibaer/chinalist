@@ -1,0 +1,10 @@
+
+!-- 豆瓣电台
+douban.fm##.ch-list-wrapper>.chl_section:last-child
+
+!-- 忘了哪看到的了
+##.DownPageAD
+/AShow.aspx^
+
+!-- 腾讯微博转播按钮
+###tipsWBzf

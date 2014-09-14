@@ -1,0 +1,84 @@
+!-- 51gugu
+/popwin^
+
+!-- Mega.co.nz
+mega.co.nz#@#.ads
+mega.co.nz##.ads-left-block
+mega.co.nz##.ads-right-block
+
+!-- 一木禾
+.com/n_ad
+yimuhe.com##:not(#banner)>[style^="height"]
+yimuhe.com##.mid
+
+!-- sudupan.com
+sudupan.com###xzfile span:last-child
+
+!#CUWCL4C
+||sudupan.com/sudupan.js
+sudupan.com###sdpggts
+!#--CUWCL4C
+
+!-- 119g
+||d.119g.com/fanwan/*
+
+!-- 乐盘
+.cc/ads/
+||lepan.cc/online/
+lepan.cc##.ad
+lepan.cc##.talk_show>a
+lepan.cc##.content_r
+
+!#CUWCL4C
+lepan.cc###code_box
+lepan.cc##.talk_show>:not(:last-child)
+!#--CUWCL4C
+
+
+!-- 千军万马
+||7958.com/api/ad/
+||qjwm.com/api/ad/
+.com/floatad.js
+7958.com###layer_Share
+7958.com##.Smohan_Layer_Shade
+!7958.com##.xzdz_3
+7958.com##.pl_1
+
+!#CUWCL4C
+7958.com###codebox
+!#--CUWCL4C
+
+
+!-- 2kuai
+2kuai.com##div[style*="height"]:not([id])
+2kuai.com##.logo > .desktop
+
+!-- 9pan
+9pan.net##.logo
+
+!-- 1wp.me
+1wp.me##.link
+!#CUWCL4C
+1wp.me###down_tip
+!#--CUWCL4C
+
+
+!-- vdisk
+||log.vdisk.cn^
+vdisk.cn###loadingbox
+vdisk.cn###yanzhengbox
+vdisk.cn###yzmbox
+vdisk.cn##div[style^="position"]
+vdisk.cn##div[style^="height"]
+vdisk.cn###getbox>.btn:first-child
+
+!-- 城通
+400gb.com,bego.cc##.downpage_r
+400gb.com,bego.cc##.downpage_l>div:not(:nth-child(2)):not(:nth-child(1))
+
+!-- howfile
+howfile.com##.content_body>:not(.contentBody_simple)
+howfile.com##.row2_right
+howfile.com###downloadtable>tbody>tr:nth-child(2)
+!||hfimg.yfdisk.com^$third-party
+||imgbus.com/doimg/

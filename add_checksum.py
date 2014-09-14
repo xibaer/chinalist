@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # coding: utf-8
 
 import sys, re, codecs, hashlib, base64
@@ -22,9 +22,17 @@ def normalize(data):
   data = re.sub(checksumRegexp, '', data)
   return data
 
-if __name__ == '__main__':
-    f = open(sys.argv[1], 'r+wb:UTF-8')
-    r = addChecksum(normalize(f.read()))
-    f.seek(0)
-    f.truncate()
-    f.write(r)
+reHeader = r'\s+!#CUWCL4C\s*([\s\S]+?)\s*!#--CUWCL4C\s+'
+
+f  = open(sys.argv[1], 'r+wb:UTF-8')
+inputTxt = normalize(f.read())
+r  = addChecksum(re.sub(reHeader, '\n', inputTxt))
+f.seek(0)
+f.truncate()
+f.write(r)
+
+fc = open(sys.argv[2], 'r+wb:UTF-8')
+rc = addChecksum(re.sub(reHeader, r'\n\1\n', inputTxt))
+fc.seek(0)
+fc.truncate()
+fc.write(rc)

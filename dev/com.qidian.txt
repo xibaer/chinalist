@@ -1,5 +1,5 @@
 
-!-- 起点抓到的
+!-- 起点中文
 ||8x.sdo.com^
 ||bf.snyu.sdo.com^
 ||ipic.staticsdo.com^

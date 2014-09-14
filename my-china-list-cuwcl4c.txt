@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: bDgxipvSqwD6VWheFJCN9A
+! Checksum: ZGKh0feClpiNpB4Qgsswwg
 ! Title: ChinaList Lite By Jixun
 ! Only contain a small amount of ad blocking that may
 ! or may not covered by Official ones.
@@ -23,6 +23,8 @@ yimuhe.com##:not(#banner)>[style^="height"]
 yimuhe.com##.mid
 !-- sudupan.com
 sudupan.com###xzfile span:last-child
+||sudupan.com/sudupan.js
+sudupan.com###sdpggts
 !-- 119g
 ||d.119g.com/fanwan/*
 !-- 乐盘
@@ -31,6 +33,8 @@ sudupan.com###xzfile span:last-child
 lepan.cc##.ad
 lepan.cc##.talk_show>a
 lepan.cc##.content_r
+lepan.cc###code_box
+lepan.cc##.talk_show>:not(:last-child)
 !-- 千军万马
 ||7958.com/api/ad/
 ||qjwm.com/api/ad/
@@ -39,6 +43,7 @@ lepan.cc##.content_r
 7958.com##.Smohan_Layer_Shade
 !7958.com##.xzdz_3
 7958.com##.pl_1
+7958.com###codebox
 !-- 2kuai
 2kuai.com##div[style*="height"]:not([id])
 2kuai.com##.logo > .desktop
@@ -46,6 +51,7 @@ lepan.cc##.content_r
 9pan.net##.logo
 !-- 1wp.me
 1wp.me##.link
+1wp.me###down_tip
 !-- vdisk
 ||log.vdisk.cn^
 vdisk.cn###loadingbox

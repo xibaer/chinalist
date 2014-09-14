@@ -1,9 +1,11 @@
 
-!-- 一些下载站的
+!-- random.txt
+!-- 懒得分类的列表
 ||m.pc6.com/js/sj-soft.js
-||kutongji.com^
 ||yesky.com/jkjs/imp-xz.htm
-||tianjimedia.com^
 ||icon.zol-img.com.cn/public/js/*
 ||huacolor.com/daocaoren/*
 ||huacolor.com/wenzi/*
+
+!-- 迅雷
+||pstatic.xunlei.com^
