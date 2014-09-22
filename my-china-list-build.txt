@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: bDgxipvSqwD6VWheFJCN9A
+! Checksum: vKOLuiEyzZ29Jyt5CNmQiw
 ! Title: ChinaList Lite By Jixun
 ! Only contain a small amount of ad blocking that may
 ! or may not covered by Official ones.
@@ -9,7 +9,7 @@
 ! Homepage: http://jixun.org/
 ! License: WTFPL, do whatever you want
 !
-!-- Build at Sun Sep 14 23:03:10 GMTDT 2014
+!-- Build at Mon Sep 22 16:19:04 GMTDT 2014
 ! ----- Rule: ad-filehost.txt
 !-- 51gugu
 /popwin^
@@ -224,9 +224,8 @@ tieba.baidu.com###balv_mod>.ui_bubble_wrap
 tieba.baidu.com##.sign_title_text_bright
 tieba.baidu.com##.pre_icon_wrap
 !-- 百度晕
-pan.baidu.com
-tieba.baidu.com##yun.baidu.com##.newhand-tips-dialog
-tieba.baidu.com##[data-key="AD"]
+pan.baidu.com,yun.baidu.com##.newhand-tips-dialog
+pan.baidu.com,yun.baidu.com##[data-key="AD"]
 pan.baidu.com,yun.baidu.com###share_aside>*:not(dl.property-list)
 !-- 加速度娘盘访问速度, 屏蔽非必须请求 √
 ||pan.baidu.com/disk/cmsdata?*

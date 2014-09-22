@@ -80,9 +80,8 @@ tieba.baidu.com##.sign_title_text_bright
 tieba.baidu.com##.pre_icon_wrap
 
 !-- 百度晕
-pan.baidu.com
-tieba.baidu.com##yun.baidu.com##.newhand-tips-dialog
-tieba.baidu.com##[data-key="AD"]
+pan.baidu.com,yun.baidu.com##.newhand-tips-dialog
+pan.baidu.com,yun.baidu.com##[data-key="AD"]
 pan.baidu.com,yun.baidu.com###share_aside>*:not(dl.property-list)
 
 !-- 加速度娘盘访问速度, 屏蔽非必须请求 √
