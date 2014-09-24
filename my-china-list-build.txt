@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: vKOLuiEyzZ29Jyt5CNmQiw
+! Checksum: UN2gFABTpA9w3W0Gdk9o7w
 ! Title: ChinaList Lite By Jixun
 ! Only contain a small amount of ad blocking that may
 ! or may not covered by Official ones.
@@ -9,7 +9,7 @@
 ! Homepage: http://jixun.org/
 ! License: WTFPL, do whatever you want
 !
-!-- Build at Mon Sep 22 16:19:04 GMTDT 2014
+!-- Build at Wed Sep 24 17:01:43 GMTDT 2014
 ! ----- Rule: ad-filehost.txt
 !-- 51gugu
 /popwin^
@@ -147,6 +147,7 @@ douban.fm##.ch-list-wrapper>.chl_section:last-child
 ||qushimeiti.com^
 ||linezing.com^
 ||cnzz.net^
+||cnzz.com^
 ||tajs.qq.com^
 ||analytics-union.xunlei.com^
 ||kutongji.com^
@@ -179,13 +180,39 @@ tieba.baidu.com###poster_rewards_detail
 tieba.baidu.com###poster_rewards_disabled
 tieba.baidu.com##.save_face_bg
 tieba.baidu.com##.profile_bottom
-tieba.baidu.com##.tbmall_score_wrapper>div:not(.online_time)
-!-- 贴吧世界杯
-tieba.baidu.com##.worldcup_rank
-tieba.baidu.com##.fifa_card_title
-tieba.baidu.com##.fifa_card
-tieba.baidu.com##.fifa_card_pb-aside
-tieba.baidu.com##.fifa_card_foottips
+tieba.baidu.com##.tbmall_score_wrapper>div:not(.online_time).spreadad
+tieba.baidu.com##.game_frs_step1
+tieba.baidu.com##.BAIDU_CLB_AD
+tieba.baidu.com##.dasense
+tieba.baidu.com##.u9_head
+tieba.baidu.com###sofa_post
+tieba.baidu.com##.banner_post
+tieba.baidu.com###pb_adbanner
+tieba.baidu.com##.right_section > *:not(#balv_mod)
+tieba.baidu.com###aside > *:not(#balv_mod):not(#forumInfoPanel):not(#zyq):not(#adminModePanel)
+tieba.baidu.com##.tb_poster_placeholder
+tieba.baidu.com##.edui-btn-voice
+tieba.baidu.com##.j_voice_ad_gif
+tieba.baidu.com##.lzl_panel_voice
+tieba.baidu.com##.poster_head_surveillance
+tieba.baidu.com##.lzl_panel_wrapper > tbody > tr > td:first-child > p
+tieba.baidu.com##.doupiao_offline
+tieba.baidu.com##.fMember_cnt
+tieba.baidu.com##.u_tshow
+tieba.baidu.com##.u_tbmall
+tieba.baidu.com##.u_app
+tieba.baidu.com##.u_wallet
+tieba.baidu.com##.u_xiu8
+tieba.baidu.com##.u_mytbmall
+tieba.baidu.com##.u_joinvip
+tieba.baidu.com##.u_baiduPrivilege
+tieba.baidu.com###pop_frame
+tieba.baidu.com##.add_guessing_btn
+tieba.baidu.com##.thread_recommend
+tieba.baidu.com###__bdyx_tips
+tieba.baidu.com###__bdyx_tips_icon
+tieba.baidu.com###tshow_out_date_warn
+tieba.baidu.com###selectsearch-icon
 !-- 贴吧游戏
 tieba.baidu.com##.game_tab
 tieba.baidu.com##.game_content
@@ -250,7 +277,6 @@ pan.baidu.com,yun.baidu.com###share_aside>*:not(dl.property-list)
 ||hm.baidu.com^
 ||nsclick.baidu.com^
 ||eclick.baidu.com^
-||cnzz.com^$third-party
 ! ----- Rule: com.qidian.txt
 !-- 起点中文
 ||8x.sdo.com^

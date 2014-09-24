@@ -75,6 +75,7 @@
 ||qushimeiti.com^
 ||linezing.com^
 ||cnzz.net^
+||cnzz.com^
 ||tajs.qq.com^
 ||analytics-union.xunlei.com^
 ||kutongji.com^
