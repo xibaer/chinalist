@@ -82,3 +82,7 @@ howfile.com##.row2_right
 howfile.com###downloadtable>tbody>tr:nth-child(2)
 !||hfimg.yfdisk.com^$third-party
 ||imgbus.com/doimg/
+
+!-- vvpan
+vvpan.com##body>.ad
+vvpan.com##body>div[style^="width"]
