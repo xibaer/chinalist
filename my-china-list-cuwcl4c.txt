@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: rS/SAD2Atl3nlbmVBbLXnA
+! Checksum: ylXovOJiZe6LCnvTlD/PJA
 ! Title: ChinaList Lite By Jixun
 ! Only contain a small amount of ad blocking that may
 ! or may not covered by Official ones.
@@ -9,7 +9,7 @@
 ! Homepage: http://jixun.org/
 ! License: WTFPL, do whatever you want
 !
-!-- Build at Wed Sep 24 17:01:43 GMTDT 2014
+!-- Build at 二 10月  7 19:08:04 BST 2014
 ! ----- Rule: ad-filehost.txt
 !-- 51gugu
 /popwin^
@@ -89,7 +89,6 @@ douban.fm##.ch-list-wrapper>.chl_section:last-child
 ||tou100.com^
 ||j.ihualun.com^
 ||tanx.com^
-||tbcdn.cn^
 ||252d.com^
 ||6dad.com^
 ||miaozhen.com^
@@ -143,6 +142,12 @@ douban.fm##.ch-list-wrapper>.chl_section:last-child
 ||tv002.com^
 ||fxxgw.com^
 ||adcash.com^
+||gaoduan.cc^
+||cpro.baidustatic.com^
+||images.sohu.com/cs/jsfile/js/c.js^
+||cciuop.com^
+||rbc.cn^
+||lxting.com^
 !-- 腾讯乱七八糟子站
 ||isdspeed.qq.com^
 ||b.qq.com^
@@ -152,12 +157,13 @@ douban.fm##.ch-list-wrapper>.chl_section:last-child
 ||51.la^
 ||qushimeiti.com^
 ||linezing.com^
-||cnzz.net^
-||cnzz.com^
 ||tajs.qq.com^
 ||analytics-union.xunlei.com^
 ||kutongji.com^
 ||jiathis.com^
+||stat.5sing.kugou.com^
+||cnzz.net^
+||cnzz.com^
 ! ----- Rule: com.baidu.any.txt
 !-- 贴吧补充 (元素隐藏)
 tieba.baidu.com##.lot_wrap

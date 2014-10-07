@@ -9,7 +9,6 @@
 ||tou100.com^
 ||j.ihualun.com^
 ||tanx.com^
-||tbcdn.cn^
 ||252d.com^
 ||6dad.com^
 ||miaozhen.com^
@@ -63,6 +62,13 @@
 ||tv002.com^
 ||fxxgw.com^
 ||adcash.com^
+||gaoduan.cc^
+||cpro.baidustatic.com^
+||images.sohu.com/cs/jsfile/js/c.js^
+||cciuop.com^
+||rbc.cn^
+||lxting.com^
+
 
 !-- 腾讯乱七八糟子站
 ||isdspeed.qq.com^
@@ -74,9 +80,11 @@
 ||51.la^
 ||qushimeiti.com^
 ||linezing.com^
-||cnzz.net^
-||cnzz.com^
 ||tajs.qq.com^
 ||analytics-union.xunlei.com^
 ||kutongji.com^
 ||jiathis.com^
+||stat.5sing.kugou.com^
+
+||cnzz.net^
+||cnzz.com^
