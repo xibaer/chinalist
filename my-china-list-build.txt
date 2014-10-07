@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: uCUDLzRROcN/oljESk1Pfw
+! Checksum: FfzQnGOXZJXvls7NDvE7ow
 ! Title: ChinaList Lite By Jixun
 ! Only contain a small amount of ad blocking that may
 ! or may not covered by Official ones.
@@ -9,7 +9,7 @@
 ! Homepage: http://jixun.org/
 ! License: WTFPL, do whatever you want
 !
-!-- Build at 二 10月  7 19:08:04 BST 2014
+!-- Build at 二 10月  7 19:09:36 BST 2014
 ! ----- Rule: ad-filehost.txt
 !-- 51gugu
 /popwin^
@@ -153,6 +153,7 @@ douban.fm##.ch-list-wrapper>.chl_section:last-child
 ||linezing.com^
 ||tajs.qq.com^
 ||analytics-union.xunlei.com^
+||stat.5sing.kugou.com^
 ||kutongji.com^
 ||jiathis.com^
 ||stat.5sing.kugou.com^

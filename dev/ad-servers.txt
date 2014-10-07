@@ -82,6 +82,7 @@
 ||linezing.com^
 ||tajs.qq.com^
 ||analytics-union.xunlei.com^
+||stat.5sing.kugou.com^
 ||kutongji.com^
 ||jiathis.com^
 ||stat.5sing.kugou.com^
